@@ -85,7 +85,7 @@ flutter test
 flutter analyze
 ```
 
-## 📦 Dependencies
+## Dependencies
 
 - `flutter/material.dart` - UI Framework
 - `shared_preferences` - Local storage
